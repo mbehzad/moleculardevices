@@ -2,8 +2,8 @@
 
 ## Environments
 - Public https://www.moleculardevices.com/
-- Preview: https://main--moleculardevices--hlxsites.aem.page/
-- Live: https://main--moleculardevices--hlxsites.aem.live/
+- Preview: https://main--moleculardevices--mbehzad.aem.page/
+- Live: https://main--moleculardevices--mbehzad.aem.live/
 
 ## Installation
 
